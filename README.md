@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @subhiram
-- 👀 I’m interested in AI and Machine learning
+- 👋 Hi, I’m @subhiram gurlinka
+- 👀 I’m interested in AI, Machine learning and Backend development
 - 🌱 I’m currently learning ml and deep learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 you can reach me on subhiram2002@gmail.com
+- 📫 you can reach me on gurlinkasubhiram@gmail.com
 
 <!---
 subhiram/subhiram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
